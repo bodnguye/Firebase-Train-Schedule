@@ -1,4 +1,6 @@
 # Firebase-Train-Schedule
+https://bodnguye.github.io/Firebase-Train-Schedule/
+
 Make sure that your app suits this basic spec:   
 - When adding trains, administrators should be able to submit the following: T
 - rain Name Destination  
