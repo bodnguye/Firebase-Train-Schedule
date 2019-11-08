@@ -26,4 +26,6 @@ A train schedule application that incorporates Firebase to host arrival and depa
 ## Demo
 [Click here to Demo!](https://bodnguye.github.io/Firebase-Train-Schedule/)
 
+
+## Preview
 ![Results](/assets/images/firebase-train.png)
